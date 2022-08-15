@@ -1,5 +1,5 @@
-# Project-Feed - Ignite Feed
+## Project-Feed - Ignite Feed
 
-## Projeto pratico da Rocketseat 
+# Projeto pratico da Rocketseat 
 
-### Tecnologias usadas: Html CSS Javascript(React)
+# Tecnologias usadas: Html CSS Javascript(React)
