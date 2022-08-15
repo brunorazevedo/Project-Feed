@@ -35,7 +35,7 @@ npm run dev
 
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
-* **Bruno Ribeiror** - *Desenvolvedor* - [umdesenvolvedor](https://github.com/brunorazevedo)
+* **Bruno Ribeiror** - *Desenvolvedor* - [Bruno Ribeiro](https://github.com/brunorazevedo)
 
 
 ## 📄 Licença
@@ -50,4 +50,4 @@ Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](h
 
 
 ---
-⌨️ com ❤️ por [Armstrong Lohãns](https://github.com/brunorazevedo) 😊
+⌨️ com ❤️ por [Bruno Ribeiro](https://github.com/brunorazevedo) 😊
