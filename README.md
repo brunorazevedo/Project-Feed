@@ -35,7 +35,7 @@ npm run dev
 
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
-* **Bruno Ribeiror** - *Desenvolvedor* - [Bruno Ribeiro](https://github.com/brunorazevedo)
+* **Bruno Ribeiro** - *Desenvolvedor Front-End* - [Bruno Ribeiro](https://github.com/brunorazevedo)
 
 
 ## 📄 Licença
