@@ -22,7 +22,7 @@ export function Comment(){
                         </button>
                     </header>
 
-                    <p>Meu primeiro comentário!</p>
+                    <p>Meu primeiro comentário! </p>
                 </div>
 
                 <footer>
