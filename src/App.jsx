@@ -21,7 +21,7 @@ const posts = [
     content: [
       {type: 'paragraph', content:'Fala Galera',},
       {type: 'paragraph', content:'Acabei de subir mais um projeto no meu portfólio. É um projeto que fiz no NLW'},
-      {type: 'link', content: 'jane.design/doctorcare' },
+      {type: 'link', content: 'instagram/brunoribazevedo' },
     ],
     publishedAt: new Date('2022-08-18 09:30:00'),
   },
@@ -30,13 +30,13 @@ const posts = [
     id: 2,
     author: {
       avatarUrl: 'https://github.com/brunorazevedo.png',
-      nome: 'Theo Ribeiro',
+      name: 'Theo Ribeiro',
       role: 'Desenvolvedor Front-End',
     },
     content: [
       {type: 'paragraph', content:'Fala Galera'},
       {type: 'paragraph', content:'Acabei de subir mais um projeto no meu portfólio. É um projeto que fiz no NLW'},
-      {type: 'link', content: 'jane.design/doctorcare' },
+      {type: 'link', content: 'instagram/brunoribazevedo' },
     ],
     publishedAt: new Date('2022-08-18 09:30:00'),
   },
